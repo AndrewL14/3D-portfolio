@@ -124,7 +124,7 @@ import {
       company_name: "Upwork",
       icon: upwork,
       iconBg: "#383E56",
-      date: "June 2024 - Present",
+      date: "January 2024 - Present",
       points: [
         "Developing and maintaining web applications using Springboot and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
