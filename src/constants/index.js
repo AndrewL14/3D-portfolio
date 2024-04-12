@@ -20,6 +20,7 @@ import {
   import springboot from "../assets/tech/Springboot.svg";
   import grade from "../assets/grade.png";
   import movie from "../assets/Movie.jpg";
+  import portfolio from "../assets/portfolio.png";
   
   export const navLinks = [
     {
@@ -177,6 +178,27 @@ import {
       ],
       image: movie,
       source_code_link: "https://github.com/AndrewL14/Movie-review-api",
+    },
+    {
+      name: "3D portfolio",
+      description:
+        "designed and implemented a 3D interactive portfolio, showcasing my work and experience", 
+      tags: [
+        {
+          name: "React js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "three js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Render",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/AndrewL14/3D-portfolio",
     },
   ];
   
